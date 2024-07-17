@@ -857,7 +857,6 @@ require('lazy').setup({
         'c',
         'lua',
         'luadoc',
-        'markdown',
         'vim',
         'vimdoc',
         'html',
